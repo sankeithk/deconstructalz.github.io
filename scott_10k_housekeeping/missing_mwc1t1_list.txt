@@ -1,0 +1,8 @@
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/024_S_1393/2008-04-07_10_59_15.0/024_S_1393_ADNI-T1_2008-04-07_10_59_15.0.nii.gz
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/136_S_0186/2006-09-18_18_00_35.0/136_S_0186_ADNI-T1_2006-09-18_18_00_35.0.nii.gz
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/016_S_4952/2017-02-14_07_22_09.0/016_S_4952_ADNI-T1_2017-02-14_07_22_09.0.nii.gz
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/003_S_0981/2009-11-11_13_50_14.0/003_S_0981_ADNI-T1_2009-11-11_13_50_14.0.nii.gz
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/136_S_0086/2009-04-28_13_41_59.0/136_S_0086_ADNI-T1_2009-04-28_13_41_59.0.nii.gz
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/027_S_0120/2006-08-16_13_32_10.0/027_S_0120_ADNI-T1_2006-08-16_13_32_10.0.nii.gz
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/136_S_0874/2009-05-05_10_34_10.0/136_S_0874_ADNI-T1_2009-05-05_10_34_10.0.nii.gz
+/rds/general/project/scott_data_adni/live/ADNI/ADNI_NIFTI/ADNI_allT1/002_S_0938/2007-10-23_09_35_43.0/002_S_0938_ADNI-T1_2007-10-23_09_35_43.0.nii.gz
