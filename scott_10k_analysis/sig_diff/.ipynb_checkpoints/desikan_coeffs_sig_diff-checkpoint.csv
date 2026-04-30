@@ -1,0 +1,20 @@
+Coefficient,Raw_P,Test,Higher Mean,Corrected_P,Significant
+desikan_D1,1.0315349060053265e-10,Welch's t-test,AD has higher mean ↑,1.5076279395462462e-10,True
+desikan_D2,1.5112271984048032e-94,Welch's t-test,AD has higher mean ↑,7.178329192422816e-94,True
+desikan_DAT,1.0351676190681643e-70,Welch's t-test,CN has higher mean ↓,3.278030793715854e-70,True
+desikan_NET,0.1531244320887131,Welch's t-test,CN has higher mean ↓,0.1616313449825305,False
+desikan_5HT1A,3.699238158167118e-157,Welch's t-test,CN has higher mean ↓,7.028552500517525e-156,True
+desikan_5HT1B,0.09062427076576096,Welch's t-test,AD has higher mean ↑,0.1012859496793799,False
+desikan_5HT2A,3.3129544306138223e-26,Welch's t-test,AD has higher mean ↑,6.294613418166263e-26,True
+desikan_5HT4,0.007148188761410467,Welch's t-test,CN has higher mean ↓,0.00848847415417493,True
+desikan_5HT6,1.396585558574919e-54,Welch's t-test,AD has higher mean ↑,3.316890701615433e-54,True
+desikan_5HTT,8.996426778324884e-25,Mann-Whitney U,CN has higher mean ↓,1.5539282617106616e-24,True
+desikan_a4b2,0.17075703994685087,Welch's t-test,AD has higher mean ↑,0.17075703994685087,False
+desikan_M1,8.325674749972062e-108,Welch's t-test,CN has higher mean ↓,5.2729273416489724e-107,True
+desikan_vAChT,2.7362086083445524e-47,Welch's t-test,CN has higher mean ↓,5.776440395394055e-47,True
+desikan_NMDA,1.0949558382681847e-07,Welch's t-test,CN has higher mean ↓,1.4860114947925363e-07,True
+desikan_mGluR5,7.907258591669112e-62,Welch's t-test,AD has higher mean ↑,2.1462559034530447e-61,True
+desikan_GABAA/BZ,0.004282902447883863,Welch's t-test,CN has higher mean ↓,0.005425009767319559,True
+desikan_H3,1.498500747605663e-137,Welch's t-test,AD has higher mean ↑,1.4235757102253799e-136,True
+desikan_CB1,4.457286287109112e-18,Welch's t-test,CN has higher mean ↓,7.057369954589428e-18,True
+desikan_MOR,7.275754360733525e-83,Welch's t-test,CN has higher mean ↓,2.7647866570787396e-82,True

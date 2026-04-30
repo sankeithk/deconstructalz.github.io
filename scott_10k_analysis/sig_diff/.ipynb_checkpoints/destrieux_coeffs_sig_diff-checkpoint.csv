@@ -1,0 +1,20 @@
+Coefficient,Raw_P,Test,Higher Mean,Corrected_P,Significant
+destrieux_D1,1.8225061042879551e-44,Welch's t-test,AD has higher mean ↑,3.1479650892246494e-44,True
+destrieux_D2,7.498294759204806e-140,Mann-Whitney U,AD has higher mean ↑,3.561690010622283e-139,True
+destrieux_DAT,1.244268745769654e-153,Welch's t-test,CN has higher mean ↓,2.3641106169623424e-152,True
+destrieux_NET,1.5993077588350544e-19,Welch's t-test,AD has higher mean ↑,2.33744980137431e-19,True
+destrieux_5HT1A,1.8314454818010108e-141,Welch's t-test,CN has higher mean ↓,1.159915471807307e-140,True
+destrieux_5HT1B,2.285320132964685e-56,Welch's t-test,AD has higher mean ↑,4.824564725147669e-56,True
+destrieux_5HT2A,3.4107942665747107e-07,Welch's t-test,AD has higher mean ↑,4.3203394043279666e-07,True
+destrieux_5HT4,0.1651627846839489,Welch's t-test,CN has higher mean ↓,0.1651627846839489,False
+destrieux_5HT6,1.9034593623800634e-31,Welch's t-test,AD has higher mean ↑,3.013810657101767e-31,True
+destrieux_5HTT,7.691297312915135e-61,Welch's t-test,CN has higher mean ↓,1.8266831118173444e-60,True
+destrieux_a4b2,0.05245789319277881,Welch's t-test,CN has higher mean ↓,0.05537222059237764,False
+destrieux_M1,9.390101120078195e-151,Welch's t-test,CN has higher mean ↓,8.920596064074286e-150,True
+destrieux_vAChT,3.4988012423529834e-83,Welch's t-test,CN has higher mean ↓,9.496746229243813e-83,True
+destrieux_NMDA,0.04490815109342859,Welch's t-test,AD has higher mean ↑,0.050191462986773135,False
+destrieux_mGluR5,9.614964138968204e-49,Welch's t-test,AD has higher mean ↑,1.8268431864039587e-48,True
+destrieux_GABAA/BZ,3.1368022984692303e-10,Welch's t-test,AD has higher mean ↑,4.2570888336368126e-10,True
+destrieux_H3,1.8153602727759884e-129,Welch's t-test,AD has higher mean ↑,6.898369036548756e-129,True
+destrieux_CB1,2.281573304652511e-06,Welch's t-test,CN has higher mean ↓,2.709368299274857e-06,True
+destrieux_MOR,7.036438217218002e-85,Mann-Whitney U,CN has higher mean ↓,2.2282054354523677e-84,True

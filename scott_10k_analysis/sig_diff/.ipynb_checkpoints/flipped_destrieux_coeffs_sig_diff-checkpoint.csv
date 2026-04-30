@@ -1,0 +1,20 @@
+Coefficient,Raw_P,Test,Higher Mean,Corrected_P,Significant
+flipped_destrieux_D1,3.206877243677472e-07,Mann-Whitney U,CN has higher mean ↓,3.5841569194042335e-07,True
+flipped_destrieux_D2,4.407470039827962e-138,Mann-Whitney U,AD has higher mean ↑,8.374193075673127e-138,True
+flipped_destrieux_DAT,3.5001899503200024e-16,Mann-Whitney U,CN has higher mean ↓,4.433573937072003e-16,True
+flipped_destrieux_NET,4.460877239249976e-18,Mann-Whitney U,AD has higher mean ↑,6.0540476818392536e-18,True
+flipped_destrieux_5HT1A,8.356845878033811e-08,Welch's t-test,AD has higher mean ↑,9.923754480165151e-08,True
+flipped_destrieux_5HT1B,4.157680812243962e-257,Welch's t-test,CN has higher mean ↓,1.1285133633233612e-256,True
+flipped_destrieux_5HT2A,1.7618479670811655e-48,Mann-Whitney U,AD has higher mean ↑,2.5750085672724726e-48,True
+flipped_destrieux_5HT4,3.4914322082201745e-207,Mann-Whitney U,AD has higher mean ↑,8.292151494522915e-207,True
+flipped_destrieux_5HT6,2.725413437556049e-148,Mann-Whitney U,AD has higher mean ↑,5.753650590396104e-148,True
+flipped_destrieux_5HTT,0.0,Mann-Whitney U,CN has higher mean ↓,0.0,True
+flipped_destrieux_a4b2,0.0,Mann-Whitney U,AD has higher mean ↑,0.0,True
+flipped_destrieux_M1,0.0,Mann-Whitney U,AD has higher mean ↑,0.0,True
+flipped_destrieux_vAChT,0.00024624215191785593,Mann-Whitney U,AD has higher mean ↑,0.00025992227146884794,True
+flipped_destrieux_NMDA,1.603830472132334e-290,Mann-Whitney U,CN has higher mean ↓,6.094555794102869e-290,True
+flipped_destrieux_mGluR5,2.5009302317794412e-65,Mann-Whitney U,AD has higher mean ↑,3.959806200317449e-65,True
+flipped_destrieux_GABAA/BZ,0.0005881850191779421,Mann-Whitney U,CN has higher mean ↓,0.0005881850191779421,True
+flipped_destrieux_H3,7.921382948109803e-288,Mann-Whitney U,AD has higher mean ↑,2.5084379335681044e-287,True
+flipped_destrieux_CB1,2.1556226986216946e-119,Welch's t-test,CN has higher mean ↓,3.7233482976192906e-119,True
+flipped_destrieux_MOR,0.0,Mann-Whitney U,CN has higher mean ↓,0.0,True

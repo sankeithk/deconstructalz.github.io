@@ -1,0 +1,20 @@
+Coefficient,Raw_P,Test,Higher Mean,Corrected_P,Significant
+flipped_desikan_D1,0.0007413919726696759,Welch's t-test,CN has higher mean ↓,0.0010752937516523256,True
+flipped_desikan_D2,6.6027025797075406e-52,Welch's t-test,AD has higher mean ↑,1.568141862680541e-51,True
+flipped_desikan_DAT,0.5308006376183586,Welch's t-test,CN has higher mean ↓,0.5308006376183586,False
+flipped_desikan_NET,0.0007923217117438188,Welch's t-test,CN has higher mean ↓,0.0010752937516523256,True
+flipped_desikan_5HT1A,2.0386872324147168e-14,Welch's t-test,AD has higher mean ↑,3.5213688559890564e-14,True
+flipped_desikan_5HT1B,5.273869372777092e-41,Welch's t-test,CN has higher mean ↓,1.0020351808276475e-40,True
+flipped_desikan_5HT2A,5.27801631240444e-65,Welch's t-test,AD has higher mean ↑,1.671371832261406e-64,True
+flipped_desikan_5HT4,5.469054736021437e-53,Welch's t-test,AD has higher mean ↑,1.4844577140629616e-52,True
+flipped_desikan_5HT6,0.34805609855625286,Welch's t-test,AD has higher mean ↑,0.3673925484760447,False
+flipped_desikan_5HTT,2.743291673409675e-127,Mann-Whitney U,CN has higher mean ↓,1.7374180598261274e-126,True
+flipped_desikan_a4b2,1.931889285800089e-164,Mann-Whitney U,AD has higher mean ↑,3.6705896430201695e-163,True
+flipped_desikan_M1,5.015402093874556e-43,Welch's t-test,AD has higher mean ↑,1.0588071087068508e-42,True
+flipped_desikan_vAChT,0.00036829750202411457,Welch's t-test,CN has higher mean ↓,0.0005831377115381814,True
+flipped_desikan_NMDA,5.621460840897981e-76,Welch's t-test,CN has higher mean ↓,2.1361551195412328e-75,True
+flipped_desikan_mGluR5,0.007059074680821856,Welch's t-test,CN has higher mean ↓,0.008382651183475955,True
+flipped_desikan_GABAA/BZ,0.00289084164200531,Welch's t-test,CN has higher mean ↓,0.0036617327465400594,True
+flipped_desikan_H3,2.770368801171058e-112,Welch's t-test,AD has higher mean ↑,1.3159251805562527e-111,True
+flipped_desikan_CB1,0.13148083695827073,Welch's t-test,AD has higher mean ↑,0.1469491707180673,False
+flipped_desikan_MOR,1.7654498552586013e-163,Welch's t-test,CN has higher mean ↓,1.6771773624956714e-162,True
