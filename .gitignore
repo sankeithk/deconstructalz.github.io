@@ -13,3 +13,6 @@ scott_10k_housekeeping/scraped_destrieux_stats.csv
 scott_10k_housekeeping/sbm_w_vbm_scott10k_alliedhealth.csv
 scott_10k_housekeeping/renamed_cols_scraped_destrieux_stats.csv
 scott_10k_analysis/Scott_10k_clustering.nbconvert.ipynb
+regression_generator/flipped_2_FINAL_NEUROMAPS_REGRESSOR.nii.gz
+regression_generator/2_FINAL_NEUROMAPS_REGRESSOR.nii.gz
+regression_generator/archive
