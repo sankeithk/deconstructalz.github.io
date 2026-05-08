@@ -1,8 +1,6 @@
 *nii*
 *.ipynb_checkpoints*
-/rds/general/project/c3nl_scott_students/live/sankeith/scott_10k_housekeeping/sbm_w_vbm_scott10k_alliedhealth.csv
 adni4keith_avg_brain_vis
-scott_10k_analysis/swarmplots/
 scott_10k_housekeeping/scraped_destrieux_stats.csv
 scott_10k_housekeeping/scraped_destrieux_stats.csv
 scott_10k_housekeeping/renamed_cols_scraped_destrieux_stats.csv
@@ -10,7 +8,6 @@ scott_10k_housekeeping/scraped_desikan_stats.csv
 scott_10k_housekeeping/renamed_cols_scraped_desikan_stats.csv
 adni4keith_freesurfer_analyses/dominance_analyses/indiv_lvl/MIKE_ONLY/generate_desikan_cortical_spins.py
 scott_10k_housekeeping/scraped_destrieux_stats.csv
-scott_10k_housekeeping/sbm_w_vbm_scott10k_alliedhealth.csv
 scott_10k_housekeeping/renamed_cols_scraped_destrieux_stats.csv
 scott_10k_analysis/Scott_10k_clustering.nbconvert.ipynb
 regression_generator/flipped_2_FINAL_NEUROMAPS_REGRESSOR.nii.gz
