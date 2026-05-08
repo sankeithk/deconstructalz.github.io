@@ -53,7 +53,6 @@ nibabel==5.4.0
 nilearn==0.13.1
 numba==0.64.0
 numpy==2.4.2
-nvidia-nccl-cu12==2.27.5
 openpyxl==3.1.5
 orjson==3.11.8
 packaging==26.0
